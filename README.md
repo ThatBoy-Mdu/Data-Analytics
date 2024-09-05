@@ -1,5 +1,5 @@
 # Data-Analytics Project
-### Using analysis skills to explore, manipulate and visualize data
+### Data Exploration and manipulation
 
 To begin, we create a database on mySQL and give the file any name.
 ``` mySQL
