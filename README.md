@@ -189,6 +189,6 @@ WHERE termdate <= curdate() AND termdate <> '0000-00-00' AND age >= 18
 GROUP BY department;
 ```
 THE RESULTS OF THESE QUESTIONS ARE VISUALIZED IN EXCEL AND SAVED IN CSV FILE FOR DATA VISUALIZATION.
-Please go ahead and view those 🙂
+Please go ahead and view those 🙂 (The xlsx and docx files)
 
 
